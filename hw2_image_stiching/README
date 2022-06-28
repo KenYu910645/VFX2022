@@ -1,0 +1,16 @@
+# 2022 VFX HW2 Image Stitching
+
+## Dependency
+Ubuntu 18.04.6 LTS
+python  3.7.11
+### Install python package
+opencv-contrib-python     4.5.5.64           
+opencv-python             4.5.5.64
+numpy                     1.21.5
+
+
+## Usage
+```
+python code/hw2_image_stiching.py
+```
+And the results will output to ./

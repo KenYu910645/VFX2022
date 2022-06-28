@@ -1,0 +1,16 @@
+# VFX2022 HW1 HDR(High dynamic range image)
+
+## Usage
+Source code is locate at code/hw1.ipynb. You can use jupyter notebook to execute my code.
+If you don't want to use Jupyter, I also provide python script.
+```
+cd code 
+python hw1.py
+```
+
+## Dependency and Environment
+python 3.7.11
+numpy==1.21.5
+opencv-contrib-python==4.5.5.64
+opencv-python==4.5.5.64
+matplotlib==3.5.1
