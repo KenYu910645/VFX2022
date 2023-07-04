@@ -1,5 +1,7 @@
 # VFX2022
-2022 NTU VFX, National Taiwan University, Digital Visual Effects
+National Taiwan University(NTU) CSIE, Digital Visual Effects(VFX) in 2022 
+
+Lecturer: 莊永裕(YY Chuang)
 
 ## Other Useful Resources
 
